@@ -1,0 +1,3 @@
+# EE369: Machine Learning
++ mnist_cifar: Implemented machine learning models (*K-Nearest Neighbor*, *Support Vector Machine*, and *Logistic Regression*) for performing image classification on *MNIST* and *CIFAR10* datasets.
++ nn_bp: Constructed a *Neural Network* model **without** utilizing existing frameworks (e.g. *TensorFlow*, *PyTorch*) and carried out *Back Propagation* training for image classification.}
